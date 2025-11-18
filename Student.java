@@ -1,6 +1,6 @@
 public class Student {
     int age;          // instance variable
-    static String school = "TIP"; // class variable
+    static String school = "DLSU"; // class variable
 
     public static void main(String[] args) {
         int score = 95; // local variable
